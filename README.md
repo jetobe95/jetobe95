@@ -21,6 +21,8 @@ For get practice i like challenges
 
 Practice NextJs, styled-components 💅. [Tip Calculator App](https://tip-calculator-app-main-six.vercel.app/)
 
+Svelte page [Profile Card](https://profile-card-component-snowy.vercel.app/)
+
 
 [Four card feature](https://react-four-card-feature-2.vercel.app/)
 
