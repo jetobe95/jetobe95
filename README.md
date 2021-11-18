@@ -30,3 +30,5 @@ Svelte page [Profile Card](https://profile-card-component-snowy.vercel.app/)
 [Calculator app](https://calculator-app-98lstbmmq-alto951.vercel.app/)
 
 [Resume](https://resume-nextjs-phi.vercel.app/)
+
+[Resume in Flutter] (https://resume-in-flutter.vercel.app/#/)
