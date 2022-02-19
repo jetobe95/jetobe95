@@ -8,11 +8,20 @@ Here are some ideas to get you started:
 
 -->
 
+```go
+me := Profile{
+	email: "jetobe1995@gmail.com",
+	languages: []string{ "Golang", "Javascript","Dart" },
+	frameworks: []string{"Flutter","ReactJs"},
+}
 
-- 🔭 I’m currently working on Pragma S.A
-- 🌱 I’m currently practicing Reactjs 
+```
+
+
+- 🔭 I’m currently working on [Pragma S.A](https://www.pragma.com.co/es)
+- 👨🏽‍💻 I read  Javascript, Flutter / Dart & Golang
 - 💬 Ask me about Javascript
-- 📫 How to reach me: alto.951@hotmail.com
+- 📫 How to reach me: jetobe1995@gmail.com
 
 
 ## Front-end projects
@@ -32,3 +41,8 @@ Svelte page [Profile Card](https://profile-card-component-snowy.vercel.app/)
 [Resume](https://resume-nextjs-phi.vercel.app/)
 
 [Resume in Flutter](https://resume-in-flutter.vercel.app/#/)
+
+
+
+## Other Projects
+[ Web scrapper using Javascript and Golang ](https://github.com/jetobe95/puppeteer-playground)
