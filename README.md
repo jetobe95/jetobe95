@@ -44,5 +44,7 @@ Svelte page [Profile Card](https://profile-card-component-snowy.vercel.app/)
 
 
 
-## Other Projects
+## Other Programing languages
 [ Web scrapper using Javascript and Golang ](https://github.com/jetobe95/puppeteer-playground)
+
+[crud-clients-go](https://github.com/jetobe95/crud-clients-go)
