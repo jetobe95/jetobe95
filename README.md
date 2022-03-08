@@ -27,6 +27,7 @@ me := Profile{
 ## Front-end projects
 For get practice i like solve challenges
 
+[Platzi app ](https://github.com/jetobe95/platzi_best_ui)
 
 Practice NextJs, styled-components 💅. [Tip Calculator App](https://tip-calculator-app-main-six.vercel.app/)
 
