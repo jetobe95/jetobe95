@@ -27,6 +27,10 @@ me := Profile{
 ## Front-end projects
 For get practice i like solve challenges
 
+## [Advice generator app](https://jetobe95.github.io/advice-generator-app/)
+![image](https://user-images.githubusercontent.com/25536713/173175522-3933a05a-a04f-47fa-8e88-236e1d27eb77.png)
+
+
 ## [Platzi app Flutter](https://github.com/jetobe95/platzi_best_ui)
 
 ![image](https://user-images.githubusercontent.com/25536713/173174860-6c36207e-22ea-4a0c-b3d1-ba923000ec55.png)
