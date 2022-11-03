@@ -18,7 +18,7 @@ me := Profile{
 ```
 
 
-- 🔭 I’m currently working on [Pragma S.A](https://www.pragma.com.co/es)
+- 🔭 I’m currently working on [Mercado Libre](https://www.mercadolibre.com.co/)
 - 👨🏽‍💻 I read  Javascript, Flutter / Dart & Golang
 - 💬 Ask me about Javascript
 - 📫 How to reach me: jetobe1995@gmail.com
