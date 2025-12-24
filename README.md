@@ -27,6 +27,9 @@ me := Profile{
 ## Front-end projects
 For get practice i like solve challenges
 
+## Frontend Vanilla (consuming the simpsons api)
+https://jetobe95.github.io/the-simpsons-api-client/
+
 ## [Advice generator app](https://jetobe95.github.io/advice-generator-app/)
 ![image](https://user-images.githubusercontent.com/25536713/173175522-3933a05a-a04f-47fa-8e88-236e1d27eb77.png)
 
