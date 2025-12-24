@@ -25,7 +25,7 @@ me := Profile{
 
 
 ## Front-end projects
-For get practice i like solve challenges
+I practice by solving challenges
 
 ## Frontend Vanilla (consuming the simpsons api)
 https://jetobe95.github.io/the-simpsons-api-client/
