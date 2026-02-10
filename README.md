@@ -27,6 +27,11 @@ me := Profile{
 ## Front-end projects
 I practice by solving challenges
 
+## Stack tasks 
+https://jetobe95.github.io/stack-tasks-lifo/
+![demo-stacktask](https://github.com/user-attachments/assets/7374198c-22c7-4307-9511-e629970ac40a)
+
+
 ## Frontend Vanilla (consuming the simpsons api)
 https://jetobe95.github.io/the-simpsons-api-client/
 
